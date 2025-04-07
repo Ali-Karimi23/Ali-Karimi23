@@ -1,5 +1,5 @@
 ### Hi, I'm Ali 👋
-## Senior AI Engineer | Santur Player | Judo Enthusiast
+##  AI Engineer | Santur Player | Judo Enthusiast
 I'm a passionate AI engineer specializing in computer vision and large language models. With a background in control theory, robotics, and nonlinear systems, I enjoy exploring how artificial intelligence can enhance different fields, especially in medical image processing and neuroscience.
 
 
