@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Ali 👋
+## Senior AI Engineer | Santur Player | Judo Enthusiast
+I'm a passionate AI engineer specializing in computer vision and large language models. With a background in control theory, robotics, and nonlinear systems, I enjoy exploring how artificial intelligence can enhance different fields, especially in medical image processing and neuroscience.
 
-<!--
-**Ali-Karimi23/Ali-Karimi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔬 My research interests include:
+- **Large Language Model**
+- **Machine Vision**
+- **Transfer Learning in Medical Images**
+- **Deep Learning Models**
+- **Robotics and Optimization**
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔗 You can find me on:
+- [Google Scholar](https://scholar.google.com/citations?user=J1viZI8AAAAJ)
+- [ORCID](https://orcid.org/0009-0004-9434-6826)
+
+
+When I'm not working on AI models, you can find me practicing santur, judo, or preparing for marathons. I’m deeply interested in philosophy, mathematics, and cognitive sciences, which often inspire my approach to problem-solving in AI.
